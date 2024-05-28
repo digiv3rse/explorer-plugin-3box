@@ -1,4 +1,4 @@
-# @alethio/explorer-plugin-3box
+# @digiv3rse/explorer-plugin-3box
 
 Alethio Explorer plugin that provides 3Box profile integration.
 
